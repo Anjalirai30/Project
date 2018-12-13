@@ -1,1 +1,3 @@
 Un-tracked file
+Editing the file and pushing
+Using amend command to save last commit 
